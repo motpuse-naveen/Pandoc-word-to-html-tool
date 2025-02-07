@@ -3,6 +3,7 @@
 # dependencies
 /react-pandoc-docx-pdf/node_modules
 /docs
+/docs/*
 /.pnp
 .pnp.js
 
